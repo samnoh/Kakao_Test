@@ -1,0 +1,7 @@
+["img12.png", "img10.png", "img02.png", "img1.png", "IMG01.GIF", "img2.JPG"]
+["F-5 Freedom Fighter", "B-50 Superfortress", "A-10 Thunderbolt II", "F-14 Tomcat", "F-15"]
+["MUZI01.zip", "muzi1.png"]
+["muzi1.txt", "MUZI1.txt", "muzi001.txt", "muzi1.TXT"]
+["a001", "a1", "A001"]
+["a   0", "a    0", "a   0"]
+[]
